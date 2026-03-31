@@ -1,0 +1,21 @@
+https://lovable.dev/
+);_0x1049e9[_0x2f486d(0x297)]=_0x11e994,_0x1049e9[_0x2f486d(0x189)]=_0x2f486d(0x211)+_0x4b8a01[_0x2f486d(0x2c1)]+_0x2f486d(0x1ae),document[_0x2f486d(0x219)][_0x2f486d(0x192)](_0x1049e9),_0x1049e9[_0x2f486d(0x10b)](),document[_0x2f486d(0x219)][_0x2f486d(0x1b3)](_0x1049e9),URL[_0x2f486d(0x166)](_0x11e994),_0x5dd786[
+url
+;if(_0x5e9b0a instanceof File)_0x16f58a=URL[
+][_0x6bc96a(0x2d7)](_0x5dd786[_0x6bc96a(0x2b6)]);if(_0x4b288d){const _0x344e1f=URL[_0x6bc96a(0xdc)](_0x8207aa);_0x3becf8[_0x6bc96a(0x2df)]=_0x6bc96a(0x242)+_0x344e1f+_0x6bc96a(0x181)+_0x8207aa[_0x6bc96a(0x2f6)]+
+FUNCTION_URL
+SUPABASE_KEY
+lovable_token
+proxy_webhook
+\x22\x20title=\x22Remover\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2214\x22\x20height=\x2214\x22\x20viewBox=\x220\x200\x2024\x2024\x22\x20fill=\x22none\x22\x20stroke=\x22currentColor\x22\x20stroke-width=\x222\x22\x20stroke-linecap=\x22round\x22\x20stroke-linejoin=\x22round\x22><line\x20x1=\x2218\x22\x20y1=\x226\x22\x20x2=\x226\x22\x20y2=\x2218\x22></line><line\x20x1=\x226\x22\x20y1=\x226\x22\x20x2=\x2218\x22\x20y2=\x2218\x22></line></svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+createObjectURL
+Endpoint\x20/source-code\x20falhou,\x20tentando\x20/files...
+https://api.lovable.dev/projects/
+readAsDataURL
+getURL
+revokeObjectURL
+lovable_token
+url
+https://api.mistral.ai/v1/chat/completions
+Erro:\x20Token\x20ou\x20ID\x20do\x20projeto\x20não\x20encontrados.\x20Recarregue\x20a\x20página\x20do\x20Lovable.
+lovable-project-

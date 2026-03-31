@@ -1,0 +1,27 @@
+https://api.lovable.dev/projects/
+createObjectURL
+https://lovable.dev/
+Tem\x20certeza\x20que\x20deseja\x20apagar\x20este\x20chat?
+url
+lastActiveChatId
+;if(_0x5e9b0a instanceof File)_0x16f58a=URL[
+getURL
+Error\x20reading\x20files
+files
+FUNCTION_URL
+chatHistory
+proxy_webhook
+<div\x20class=\x22message-content\x22>Chat\x20carregado:\x20
+Endpoint\x20/source-code\x20falhou,\x20tentando\x20/files...
+/source-code
+/files
+readAsDataURL
+Novo\x20chat\x20iniciado.
+revokeObjectURL
+new-chat-btn
+/files/raw?path=
+delete-chat-btn
+https://api.mistral.ai/v1/chat/completions
+.delete-chat-btn
+chat-container
+Novo\x20Chat

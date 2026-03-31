@@ -1,0 +1,7 @@
+{
+  "API_URL": "https://selnzytylaxenmqxsdkj.supabase.co/rest/v1",
+  "FUNCTION_URL": "https://selnzytylaxenmqxsdkj.supabase.co/functions/v1/secure-gateway",
+  "SUPABASE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNlbG56eXR5bGF4ZW5tcXhzZGtqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njk0NzA5MDcsImV4cCI6MjA4NTA0NjkwN30.noWQmfLeDxCgjZIwtwNi8Boq5_wodKSoKUxAhm6MThA",
+  "REVALIDATION_INTERVAL": 1800000,
+  "REQUEST_TIMEOUT": 10000
+}
